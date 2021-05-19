@@ -1,2 +1,2 @@
-# kursovaya
+# kurs
 university
